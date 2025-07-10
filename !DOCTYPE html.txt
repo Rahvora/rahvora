@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rhavora | Naturally Designed. Thoughtfully Made.</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Welcome to Rhavora</h1>
+      <p class="tagline">Naturally Designed. Thoughtfully Made.</p>
+      <p>We create sustainable lifestyle products inspired by real people and real needs.</p>
+    </div>
+  </header>
+
+  <section class="mission-vision">
+    <div class="section-block">
+      <h2>Our Mission</h2>
+      <p>
+        At Rhavora, our mission is to create sustainable, everyday products that enhance people’s lives while caring for the planet. 
+        We design with purpose, inspired by real customer needs, and driven by a commitment to natural, conscious living.
+      </p>
+    </div>
+    <div class="section-block">
+      <h2>Our Vision</h2>
+      <p>
+        To become a trusted global brand that empowers people to live more intentionally through eco-conscious, lifestyle-driven products — 
+        making sustainability not just a choice, but a joyful habit.
+      </p>
+    </div>
+  </section>
+
+  <section class="story">
+    <h2>Our Story</h2>
+    <p>
+      Rhavora was born out of a simple idea: that the products we use every day should make life better — not just for us, but for the world we share. 
+      We saw a gap between what people needed and what was being offered — so we decided to listen. Really listen.
+    </p>
+    <p>
+      Our team began by speaking with real people, exploring the rhythms of daily life, and uncovering unmet needs. 
+      From there, we started building solutions — smart, sustainable products designed with care, created with integrity, and delivered with purpose.
+    </p>
+    <p>
+      At Rhavora, we don’t follow trends. We follow people. And by doing so, we create things that matter.
+    </p>
+  </section>
+
+  <section class="values">
+    <h2>Our Core Values</h2>
+    <div class="value-grid">
+      <div class="value-card">🌱 <strong>Sustainability First</strong><p>Every decision we make considers the planet.</p></div>
+      <div class="value-card">🧑‍🤝‍🧑 <strong>Customer-Led Creation</strong><p>We listen before we build.</p></div>
+      <div class="value-card">🔍 <strong>Transparency & Trust</strong><p>Honest products, honest processes.</p></div>
+      <div class="value-card">🎯 <strong>Quality & Simplicity</strong><p>Daily essentials, thoughtfully designed.</p></div>
+      <div class="value-card">🤝 <strong>Community & Connection</strong><p>Our customers are our collaborators.</p></div>
+    </div>
+  </section>
+
+  <section class="signup">
+    <h2>Be the First to Know</h2>
+    <p>Our store is coming soon! Sign up to get early access and updates.</p>
+    <form>
+      <input type="email" placeholder="Enter your email" required>
+      <button type="submit">Notify Me</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rhavora. All rights reserved.</p>
+  </footer>
+</body>
+</html>
